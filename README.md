@@ -70,4 +70,4 @@
 
 --
 
-[01 깨끗한 코드](https://github.com/bucketplace/cleancode_study/blob/master/2019-08-28%20Chapter01.md#01-%EA%B9%A8%EB%81%97%ED%95%9C-%EC%BD%94%EB%93%9C)
+[코딩 규칙](https://github.com/bucketplace/cleancode_study/blob/master/2019-10-23%20Coding%20Conversations.md#%EC%BD%94%EB%94%A9-%EA%B7%9C%EC%B9%99)
